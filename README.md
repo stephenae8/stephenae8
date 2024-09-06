@@ -3,7 +3,7 @@
 My name is Stephen Aekins, and I'm a software developer who recently graduated from Tech Elevator with a strong background in IT infrastructure and services. My aim is to deliver products that remove stressors and blockers to streamline lives.
 
 
-- 🛠️ I recently built [**Reality Site**](realitysite.netlify.app)
+- 🛠️ I recently built **Reality Site** (realitysite.netlify.app)
   - An app that simplifies property management by allowing users to apply for, list, and manage properties. Worked collaboratively with the product owner and team(as team lead) to build a user-friendly interface tailored for both property owners, managers, and applicants. Utilized Vue.js, Java, Spring Boot, Postman, and PostgreSQL. On this project, I developed SQL database, designed RESTful API and webpage layouts and created the property filtering system with dropdown menus.
 
 - 🔬 I’m currently working on **Vision** 🔮
