@@ -11,7 +11,7 @@ My name is Stephen Aekins, and I'm a software developer who recently graduated f
 
 - 🌱 I’m currently learning
    - AWS, Containerization, and how to optimally deploy applications to the cloud
-   - React.js through a team project, Midl, powered by the Google Maps API.
+   - React.js, Typescript, through a team project, Midl, powered by the Google Maps API.
 
 <!--
 **stephenae8/stephenae8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
