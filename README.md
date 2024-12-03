@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 My name is Stephen Aekins, and I'm a software developer who recently graduated from Tech Elevator with a strong background in IT infrastructure and services. My aim is to deliver products that remove stressors and blockers to streamline lives.
 
